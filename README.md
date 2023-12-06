@@ -2,8 +2,7 @@ Description
 ===========
 This repository contains electronic supporting information for the paper
 **Molecular Geometry Impact on Deep Learning Predictions of Inverted
-Singlet-Triplet Gaps**, submitted to _ChemRxiv_ by L. Barneschi, L. Rotondi
-and D. Padula.
+Singlet-Triplet Gaps**, submitted by L. Barneschi, L. Rotondi and D. Padula.
 
 As described in the paper, data needed to fully reproduce are our work are
 available at:
