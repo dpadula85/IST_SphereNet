@@ -26,6 +26,8 @@ to be supplied to the model;
 - `test_xyzs`, `xtb`, `gaff`: folders containing geometries  of the test set,
 optimised at the level of theory described in the paper;
 
+- `datasets.py`: script to create a PyTorch Dataset to feed to the model;
+
 - `train.py`: script to train the network;
 
 - `predict.py`: script to obtain predictions.
